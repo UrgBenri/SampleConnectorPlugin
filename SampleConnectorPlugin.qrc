@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/SampleConnectorPlugin">
+        <file alias="tabIcon">img/number.png</file>
+    </qresource>
+</RCC>
